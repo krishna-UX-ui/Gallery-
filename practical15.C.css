@@ -1,0 +1,34 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #e9a0a0;
+}
+
+.header{
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.loginform{
+    background-color: #114d02;
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 300px;
+}
+
+.loginform input{
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+.footer{
+    text-align: center;
+}
